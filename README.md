@@ -1,5 +1,5 @@
 This project is the student result generated system. 
-To run this project we have to complete following steps:
+To run this project please go through following steps:
 1. install Python
 2. install packages like pandas,numpy,openpyxl, xlwings, pathlib, etc.
 3. create a batch_folders inside an input_folder and store all input files inside their respective batches.
