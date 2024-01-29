@@ -1,4 +1,4 @@
-This project is the student result generated system. 
+STUDENT RESULT GENERATED SYSTEM. 
 To run this project please go through following steps:
 1. install Python
 2. install packages like pandas,numpy,openpyxl, xlwings, pathlib, etc.
